@@ -1,0 +1,15 @@
+
+public class miniProjeAsalSayı {
+
+	public static void main(String[] args) {
+		int sayi = 13;
+		for (int i = 0; i < sayi/2; i++) {
+			if (sayi % i == 0) {
+				System.out.println("Sayı asal sayıdır.");
+				break;
+			}
+		}
+
+	}
+
+}
