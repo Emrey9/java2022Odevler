@@ -1,4 +1,4 @@
-INDEX VERSION 1.131+C:\javaEclipse\ödevler\.metadata\.plugins\org.eclipse.jdt.core
-3050297379.index
-1865797976.index
+INDEX VERSION 1.131+C:\javaEclipse\java2022Odevler\.metadata\.plugins\org.eclipse.jdt.core
 3936239005.index
+1865797976.index
+3050297379.index
