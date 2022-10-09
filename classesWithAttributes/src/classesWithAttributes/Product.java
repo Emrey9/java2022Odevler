@@ -18,6 +18,7 @@ public class Product {
 	
 
 	public Product(int id, String name, String description, double price, int stockAmount, String color, String kod) {
+		//this içinde bulunduğu klasın özellikleri
 		this.id = id;
 		this.name = name;
 		this.description = description;
@@ -78,7 +79,7 @@ public class Product {
 	}
 
 	public String getKod() {
-		return this.name.substring(0, 2) + this.id;
+		return this.name.substring(0, 1) + this.id;
 	}
 
 }
