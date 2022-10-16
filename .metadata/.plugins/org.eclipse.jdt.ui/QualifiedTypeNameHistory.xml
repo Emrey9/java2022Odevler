@@ -1,21 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
-    <fullyQualifiedTypeName name="classes.CustomerManager"/>
-    <fullyQualifiedTypeName name="reCapDemo_Classes.DortIslem"/>
-    <fullyQualifiedTypeName name="java.lang.ProcessHandle"/>
-    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
-    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="methodOverloading.DortIslem"/>
-    <fullyQualifiedTypeName name="inheritance.Person"/>
-    <fullyQualifiedTypeName name="inheritance.Customer"/>
-    <fullyQualifiedTypeName name="inheritance.Employee"/>
-    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
-    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
-    <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.KrediUI"/>
-    <fullyQualifiedTypeName name="inheritanceDemo.OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceDemo.AskerKrediManager"/>
     <fullyQualifiedTypeName name="youTubeProject.CrediManager"/>
@@ -57,4 +41,23 @@
     <fullyQualifiedTypeName name="staticDemo.ProductManager"/>
     <fullyQualifiedTypeName name="staticDemo.Product"/>
     <fullyQualifiedTypeName name="staticDemo.ProductValidator"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.CategoryDao"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.InstructorDao"/>
+    <fullyQualifiedTypeName name="gun3Odev3.entities.concrete.Course"/>
+    <fullyQualifiedTypeName name="gun3Odev3.entities.concrete.Instructor"/>
+    <fullyQualifiedTypeName name="gun3Odev3.business.InstructorManager"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.HibernateInstructorDao"/>
+    <fullyQualifiedTypeName name="gun3Odev3.core.logging.Logger"/>
+    <fullyQualifiedTypeName name="gun3Odev3.core.logging.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="gun3Odev3.core.logging.FileLogger"/>
+    <fullyQualifiedTypeName name="gun3Odev3.core.logging.MailLogger"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.CourseDao"/>
+    <fullyQualifiedTypeName name="gun3Odev3.business.CourseManager"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.JdbcCourseDao"/>
+    <fullyQualifiedTypeName name="gun3Odev3.entities.concrete.Category"/>
+    <fullyQualifiedTypeName name="gun3Odev3.business.CategoryManager"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.HibernateCategoryDao"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="gun3Odev3.dataAccess.JdbcCategoryDao"/>
 </qualifiedTypeNameHistroy>
